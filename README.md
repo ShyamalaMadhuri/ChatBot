@@ -7,6 +7,7 @@ The major functionalities involved in this project are:
 2. Types of services offered by this site.
 3. Online/offline orders and tracking details
 4. Details about different types of available products.
+5. Details about various offers and discounts on products depends on occasions.
 
 Youtube Link - https://youtu.be/tGdWFd6rTQ4
 
